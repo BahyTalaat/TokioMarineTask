@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bn1+18gsqc+iRXxJVgnghanKdn1sZuF1QoltpuxWA0Te4inafcfTsN3IzMTOY19D6nC0SlIMGMGuBDzGjSGu6A==",
+  "success": true,
+  "projectFilePath": "D:\\TokioMarine\\TokioMarine\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\BahyTalaat\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

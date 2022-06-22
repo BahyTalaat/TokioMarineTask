@@ -1,0 +1,15 @@
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\TokioMarine\TokioMarine\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\TokioMarine\TokioMarine\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\TokioMarine\TokioMarine\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\TokioMarine\TokioMarine\Repositories\bin\Debug\net5.0\Data.dll
+D:\TokioMarine\TokioMarine\Repositories\bin\Debug\net5.0\Data.pdb
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\TokioMarine\TokioMarine\Repositories\obj\Debug\net5.0\ref\Repositories.dll

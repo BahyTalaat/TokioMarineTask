@@ -1,0 +1,39 @@
+﻿@using DTO.Product
+@model List<GetProductDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@Html.ActionLink("Create New Product","Create")
+<h1></h1>
+
+  <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Price</th>
+      <th scope="col">Count</th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach (var item in @Model)
+        {
+            <tr>
+             <th scope="row">@item.Id</th>
+             <td>@item.Name</td>
+             <td>@item.Description</td>
+             <td>@item.Price</td>
+             <td>@item.Count</td>
+            <td>
+                @*@Html.ActionLink("Add To Bill","AddToBill",new {Id=@item.Id},new {@class="btn btn-primary"})</td>*@
+          
+            <a href="Product/AddToBill/@item.Id">Add</a>
+            </tr>
+        }
+
+  </tbody>
+</table>
+

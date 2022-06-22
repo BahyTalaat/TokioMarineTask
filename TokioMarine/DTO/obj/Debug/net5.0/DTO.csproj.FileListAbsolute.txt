@@ -1,0 +1,12 @@
+D:\TokioMarine\TokioMarine\DTO\bin\Debug\net5.0\DTO.deps.json
+D:\TokioMarine\TokioMarine\DTO\bin\Debug\net5.0\DTO.dll
+D:\TokioMarine\TokioMarine\DTO\bin\Debug\net5.0\DTO.pdb
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.dll
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\refint\DTO.dll
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\DTO.pdb
+D:\TokioMarine\TokioMarine\DTO\obj\Debug\net5.0\ref\DTO.dll
